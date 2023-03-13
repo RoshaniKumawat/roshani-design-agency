@@ -1,0 +1,98 @@
+@import url("./style.css");
+
+
+
+/*// XX-Large devices (larger desktops, 1400px and up)*/
+@media (max-width: 1400px) { 
+
+    /*---about-us---*/
+
+    .about-design-img-2 {
+        right: -115px;
+    }
+    
+    /*---TESTIMONIALS--(slick-slider)---*/
+    
+    .test-design-img-1 {
+        right: -118px;
+    }
+
+    /*----footer----*/
+
+    .footer-design-img-2 {
+        right: -123px;
+    }
+}
+
+
+/*// X-Large devices (large desktops, 1200px and up)*/
+@media (max-width: 1200px) {
+    /*-------card--------*/
+    .design-img-1 {
+       right: -18px;  
+    }
+
+    /*---about-us---*/
+
+    .about-design-img-2 {
+        right: -18px;
+    }
+    
+    /*-----------events---------*/
+
+    .event-imgs-3 {
+        right: -18px;
+    }
+
+    /*---TESTIMONIALS--(slick-slider)---*/
+    
+    .test-design-img-1 {
+        right: -18px;
+    }
+    
+    /*--------blog----------*/  
+
+    .blog-design-img-2 {
+        right: -18px;
+    }
+
+    /*----footer----*/
+
+    .footer-design-img-2 {
+        right: -18px;
+    }
+}
+
+
+/*// Large devices (desktops, 992px and up)*/
+@media (max-width: 991px) {
+
+    
+}
+
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (max-width: 768px) { 
+    
+}
+
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) {
+    
+    
+}
+
+
+/*// X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap*/
+@media (max-width: 425px) {
+    
+    
+}
+
+
+@media (max-width: 320px) {
+
+    
+}
